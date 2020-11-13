@@ -1,0 +1,13 @@
+[{
+        "ParameterKey": "VpcId",
+        "ParameterValue": "vpc-04558c502fec3302e"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "mythical-mysfits"
+    }
+]
