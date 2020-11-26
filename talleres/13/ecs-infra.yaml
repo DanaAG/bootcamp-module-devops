@@ -3,7 +3,7 @@ AWSTemplateFormatVersion: 2010-09-09
 Description: Infraestructura de ECS para el API de Mythical Mysfits
 
 Parameters:
-  AmazonECSTaskExecutionRolePolicy:
+  AmazonECSTaskExecutionRolePolicy: 
     Type: String
     Default: arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy
   AWSCodeDeployRoleForECS:
